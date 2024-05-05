@@ -1,0 +1,47 @@
+.blogzilla {
+	color: #e4e4e4;
+	font-size: 45px;
+	font-family: "Titan One", sans-serif;
+	font-weight: 800;
+}
+
+.blog_title {
+	font-family: "M PLUS 1p", sans-serif;
+  font-weight: 400;
+}
+
+h2 {
+	font-family: "M PLUS 1p", sans-serif;
+	font-weight: 200;
+}
+
+h3 {
+	font-family: "M PLUS 1p", sans-serif;
+	font-weight: 500;
+}
+
+.bg-dark {
+	background-color: rgb(18, 60, 86) !important;
+}
+
+body {
+	background-color: #eaeaea;
+}
+
+.bg-body-tertiary { 
+	background-color: rgb(220 225 230) !important;
+}
+
+.p-md-5 {
+	display: inline-block;
+	padding-top: 70px !important;
+	width: 100%;
+}
+
+.col-lg-6 {
+	width:100%;
+}
+
+.px-0 {
+	text-align: center;
+}
