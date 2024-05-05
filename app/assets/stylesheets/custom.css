@@ -44,4 +44,24 @@ body {
 
 .px-0 {
 	text-align: center;
+	margin-top: 5%;
+}
+
+#article1 {
+	scroll-margin-top: 80px;
+}
+
+a {
+	text-decoration: none;
+}
+
+@media (max-width: 768px) {
+	.navbar-expand-md {
+			flex-wrap: nowrap;
+			justify-content: flex-start;
+	}
+}
+
+.collapse:not(.show) {
+	display: flex;
 }
